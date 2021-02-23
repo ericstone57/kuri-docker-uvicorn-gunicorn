@@ -1,4 +1,4 @@
-FROM bitnami/python:3.8-prod
+FROM registry.cn-shanghai.aliyuncs.com/kuri/kuri-docker-python:latest
 
 LABEL maintainer="Eric Lee <ericstone.dev@gmail.com>"
 
